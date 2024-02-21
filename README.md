@@ -1,16 +1,13 @@
-# basicfilmapp
+# Basic Film App
 
-A new Flutter project.
+Basic Film App is a simple Flutter application that displays a list of films and their details.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Display a grid of films with their images, names, and costs.
+- Tap on a film to view its details.
+- View the film's name, image, and cost on the detail page.
+- Buy button to simulate purchasing (currently just prints "BUY" to the console).
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+![Screenshot_1708525756](https://github.com/Ernecna/FilmAppwGridView/assets/97342233/fd43e788-e393-4fc7-95f5-d1ec07cc0069)
